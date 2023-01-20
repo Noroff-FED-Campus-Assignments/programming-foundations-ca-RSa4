@@ -36,7 +36,7 @@ const motorbike = {
       motorbike.on = !motorbike.on
     }
   }
-
+  
   if (motorbike.kilometres > "5000") {
     console.log("You should not buy this one")
   };

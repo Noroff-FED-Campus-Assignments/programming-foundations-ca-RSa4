@@ -13,11 +13,20 @@ npm install
 npm run dev
 ```
 
-## _REPLACE_ Object
+## motobike Object
 
 // Use this file to write your report.
 
 This object has the following properties:
+
+brand: the brand of the car
+speed: how fast the motorbike can go
+revs: to increase the speed of a motor
+kilometres: is a unit of length in the International System, equal to one thousand metres 
+cc: which is a metric unit to measure the Engine Capacity or volume
+on: physically in contact with and supported by a surface.
+gearbox: defines itself as a box that contains a set of gears.
+ignition: the device that is used to ignite the fuel mixture in a gasoline engine
 
 ## Minimum acceptance Criteria
 
